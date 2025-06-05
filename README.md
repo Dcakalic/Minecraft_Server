@@ -11,8 +11,8 @@ Internet connection for downloading the modpack
 ## Installation 
 
 1. Download the CurseForge App
-   >https://www.curseforge.com/download/app
-   >Install and open the app
+   > https://www.curseforge.com/download/app
+   > Install and open the app
 2. Go to the Minecraft Selection
    > Select "Minecraft" Under the "Choose Game".
 3. Download the zip file from my website or fromn above
@@ -27,7 +27,7 @@ Internet connection for downloading the modpack
    > Note do not update any of the mods in the mod pack
    > The mods have been carefully selected so that they work in harmony with eachother
 6. Hit the play button and get ready to play some minecraft!
-   > once in minecraft go to multiplayer
+   > once in minecraft go to multiplayer\n
    > Then select add server
    > under the server address input the code you were given (if you dont have the code reachout on the website)
    > Click Done, then join
